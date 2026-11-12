@@ -1,4 +1,4 @@
-# 5AM — Sports Facility Booking System
+# 4AM — Sports Facility Booking System
 
 A sports facility booking system developed as a university project to help
 students discover sports facilities, check availability, and manage bookings.
